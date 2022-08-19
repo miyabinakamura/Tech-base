@@ -1,4 +1,5 @@
 <?php
+//投稿番号固定型
     $filename = "mission_3-5-2.txt";
     $editNo="";
     $editName="";
