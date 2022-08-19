@@ -1,10 +1,10 @@
 <?php
   //データソース名
-  $dsn = 'mysql:dbname=tb240114db;host=localhost';
+  $dsn = 'でえたべえす';
   //ユーザー名
-  $user = 'tb-240114';
+  $user = 'ゆうざあ';
   //パスワード
-  $password = 'BCv2fzmudA';
+  $password = 'ぱすわあど';
   //array...エラーを出すためのオプション
   $pdo = new PDO($dsn, $user, $password, array(PDO::ATTR_ERRMODE => PDO::ERRMODE_WARNING));
 ?>
