@@ -8,6 +8,7 @@
    
         
         <?php
+        //投稿番号更新型
         $filename = "mission_3-5-3.txt";
         $name = $_POST["name"]; //名前
         $comment = $_POST["comment"]; //コメント
