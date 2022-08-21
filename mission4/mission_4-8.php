@@ -1,7 +1,7 @@
 <?php
-    $dsn = 'mysql:dbname=tb240114db;host=localhost';
-    $user = 'tb-240114';
-    $password = 'BCv2fzmudA';
+    $dsn = 'でえたべえす';
+    $user = 'ゆうざあ';
+    $password = 'ぱすわあど';
     $pdo = new PDO($dsn, $user, $password, array(PDO::ATTR_ERRMODE => PDO::ERRMODE_WARNING));
     
     //テーブル名（項目名　データ型、項目名、データ型）
