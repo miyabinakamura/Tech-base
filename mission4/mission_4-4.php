@@ -7,9 +7,9 @@
     <body>
         <?php
         //2DB接続設定
-        $dsn = 'mysql:dbname=tb240114db;host=localhost';
-        $user = 'tb-240114';
-        $password = 'BCv2fzmudA';
+        $dsn = 'でえたべえす';
+        $user = 'ゆうざあ';
+        $password = 'ぱすわあど';
         $pdo = new PDO($dsn, $user, $password, array(PDO::ATTR_ERRMODE => PDO::ERRMODE_WARNING));
         /*
         $sql = "CREATE TABLE IF NOT EXISTS tbtest"
